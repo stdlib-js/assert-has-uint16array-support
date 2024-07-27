@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasUint16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint16array-support@deno/mod.js';
+import hasUint16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint16array-support@v0.2.2-deno/mod.js';
 ```
 
 #### hasUint16ArraySupport()
@@ -65,7 +65,7 @@ var bool = hasUint16ArraySupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasUint16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint16array-support@deno/mod.js';
+import hasUint16ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-uint16array-support@v0.2.2-deno/mod.js';
 
 var bool = hasUint16ArraySupport();
 if ( bool ) {
